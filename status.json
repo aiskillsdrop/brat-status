@@ -1,0 +1,67 @@
+{
+  "now": "Проверил почту GitHub",
+  "done_today": 0,
+  "waiting": 1,
+  "waiting_items": [
+    "Fiverr: ответ поддержки"
+  ],
+  "recent": [
+    "Шортс на 21:00 готов",
+    "2 поста в X",
+    "Идеи товара за $300 готовы"
+  ],
+  "mood": "idle",
+  "updated": "2026-10-26T21:33:34+02:00",
+  "tap_url": "https://grok.com/",
+  "links": [
+    {
+      "t": "Сайт",
+      "n": "Market Plus",
+      "u": "https://marketplus-news.github.io/"
+    },
+    {
+      "t": "X.com",
+      "n": "X @MarketPulseGold",
+      "u": "https://x.com/MarketPulseGold"
+    },
+    {
+      "t": "Patreon",
+      "n": "Patreon (шаблоны)",
+      "u": "https://www.patreon.com/DmitryZhuk"
+    },
+    {
+      "t": "Pins",
+      "n": "Pinterest",
+      "u": "https://www.pinterest.com/dmitryzhuktemplates/"
+    },
+    {
+      "t": "GitHub",
+      "n": "GitHub aiskillsdrop",
+      "u": "https://github.com/aiskillsdrop"
+    },
+    {
+      "t": "Gumroad",
+      "n": "Gumroad",
+      "u": "https://dmitrysheets.gumroad.com"
+    },
+    {
+      "t": "Fiverr",
+      "n": "Fiverr",
+      "u": "https://www.fiverr.com/dmitrysheets"
+    },
+    {
+      "t": "Notion",
+      "n": "Habit Tracker 2027 Lite",
+      "u": "https://viridian-question-22d.notion.site/Habit-Tracker-2027-Lite-40418c6149448136868cd2a01e950c2f"
+    }
+  ],
+  "link_style": {
+    "medium": {
+      "per_row": 4,
+      "rows": 2,
+      "w": 80,
+      "h": 28,
+      "font": 13
+    }
+  }
+}
